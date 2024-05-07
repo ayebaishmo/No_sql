@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pymongo = "*"
+pandas = "*"
+psycopg2 = "*"
 
 [dev-packages]
 ipykernel = "*"
